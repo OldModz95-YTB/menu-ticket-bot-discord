@@ -1,0 +1,28 @@
+{
+  "name": "menu-ticket-bot-discord",
+  "version": "1.0.0",
+  "description": "Simple Bot Discord Menu Ticket",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OldModz95-YTB/menu-ticket-bot-discord"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "menu",
+    "ticket",
+    "oldmodz95",
+    "protondev",
+    "node"
+  ],
+  "author": "OldModz95",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "enmap": "^5.8.7"
+  }
+}
